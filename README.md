@@ -14,6 +14,15 @@ Welcome to the Type and Earn game! This is a fun typing game where players can t
 - Balance management: Earn and withdraw points
 - Graphical User Interface (GUI) built with Tkinter
 
+
+## Installation
+
+```bash
+Clone the repository:
+git clone https://github.com/sujalrajpoot/type-and-earn.git
+```
+
+
 # Requirements
 
 To run this game, ensure you have the following installed:
@@ -21,6 +30,7 @@ To run this game, ensure you have the following installed:
 - Python 3.x
 - Tkinter (usually included with Python installations)
 - SQLite (comes with Python standard library)
+
 ## Running Tests
 
 To run tests, run the following command
@@ -33,14 +43,6 @@ python Game.py
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Installation
-
-
-```bash
-Clone the repository:
-git clone https://github.com/sujalrajpoot/type-and-earn.git
-```
-    
 ## 🚀 About Me
 I'm a skilled Python programmer and experienced web developer. With a strong background in programming and a passion for creating interactive and engaging web experiences, I specialize in crafting dynamic websites and applications. I'm dedicated to transforming ideas into functional and user-friendly digital solutions. Explore my portfolio to see my work in action.
 # Hi, I'm Sujal Rajpoot! 👋
